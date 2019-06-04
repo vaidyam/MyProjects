@@ -1,0 +1,27 @@
+					Deep Learning Assignments and Projects
+					++++++++++++++++++++++++++++++++++++++ 
+
+course 1: NN and DL
+===================
+1. Python Basics with numpy
+2. Logistic regression with a NN mindset
+3. Building deep NN step by step
+3. Applications:
+   =============
+   1. Planar data classifier - 1 hidden layer
+   2. Image classifier - deep NN ( cat detector )
+
+
+-----------------------------------------------------------------------
+
+course 2 : CNN:
+===============
+1. Building conv model step by step
+2. Building residual network
+3. Applications:
+   -------------
+	1. Hand Sign Detector - CNN - using Tensorflow
+	2. Happiness detector for Happy House - RNN - using Keras
+	3. Car detector - computer vision - YOLOv2
+	4. Artistic Image Generator - neural style transfer
+	5. Face recognition system for Happy House - convNet using triplet loss
